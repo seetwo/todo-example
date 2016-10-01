@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6ef6a1e24f90138697dda957ad7ea6fc938bf52e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c01a4f24f4f110d93bc36dcd26f380b72b588148/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_450f32df18307ea7526cc2bf3829c7c335628c19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_09d7a25cf7edc079e6dbb24f325d36fe738dd490/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_6ce966ba0885b8b04733cf82158e484f90ed3444/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c30130fab6e85ecc701ce7ff8f5d9f9fa39d3232">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_55284dcffe60a87a973c1932c125707fc8220543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f11b0435f35fb168556ecb02d9845bc987423463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_9aec5492b7fc245b77ee64292b66749e22f516b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_c6c12068dd460dead191eb02398b4b748068b144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_8131915ae75836ace30cd2951030c409611364cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e95fa13e813ac91b6e86dd50511f81edd5a12b1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8cdf0db8890489dafbc00466da08ccf09bd0ce31">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_126e867df8952cc4bf493f793e88b50ae40cd5ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_69cec76324a1e99ceb5d3365cbc89c9ca7e60d53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_55ea7033eabc40b314206123d5d97497f658475b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_6a3f1571b623d1bb851b2d9b3ea0adb275229234/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c3e531c5c87df12d97febaa48ec93496fbd71201/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chariot/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/chariot/Dev/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_5fb448024504a673f640a140beb6c4c2025629a9/classes.dex" />
+    </item>
+
+</items>
